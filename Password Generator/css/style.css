@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
 * {
 	box-sizing: border-box;
+	justify-content: center;
 }
 body {
 	margin: 0;
@@ -15,8 +16,9 @@ body {
 }
 .pw-container {
 	width: 600px;
-	background-color: rgb(152, 156, 105);
+	background-color: rgba(182, 135, 25, 0.62);
 	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+	text-align: center;
 }
 .pw-header {
 	padding: 1rem;
